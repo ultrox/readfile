@@ -1,0 +1,12 @@
+{
+  "name": "@markovujanic/readfile",
+  "version": "1.0.0",
+  "description": "Read file with default encoding",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "readFile.js",
+  "keywords": ["readfile", "sane-readfile"],
+  "author": "Marko Vujanic",
+  "license": "ISC"
+}
