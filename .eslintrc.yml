@@ -1,0 +1,6 @@
+extends:
+  - mavu
+  - mavu/jest
+rules:
+  no-console: off
+  comma-dangle: off
